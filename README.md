@@ -29,7 +29,6 @@ There are also icons for toolbars, so copy the contents of the toobar_icons dir 
 
 
 SendOSC.lua does not work on Windows.
-To run SendOSC.lua
 
 __For Mac or Linux__
 
