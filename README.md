@@ -42,4 +42,3 @@ or visit this repository.
 https://github.com/yoggy/sendosc
 
 In some cases, a symbolic link to /usr/local/bin is required.
-It probably will not work on Windows.
