@@ -1,9 +1,10 @@
 # Easing_ReaScript
 Draw easing function envelope for reaper.
-It's a script I created for learning purposes.
-Probably useful for creating sound effects for movies and games, and for various sound effects.
 
-![エビフライトライアングル](https://github.com/crackerjacques/Easing_ReaScript/blob/main/011_0.gif?raw=true)
+I write it for learning purposes.
+Probably useful for creating sound effects for movies and games, and for various music compose.
+
+![GIF](https://github.com/crackerjacques/Easing_ReaScript/blob/main/011_0.gif?raw=true)
 
 
 # How to Use
