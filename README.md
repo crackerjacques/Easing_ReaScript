@@ -31,13 +31,15 @@ There are also icons for toolbars, so copy the contents of the toobar_icons dir 
 SendOSC.lua does not work on Windows.
 To run SendOSC.lua
 
-__For Mac,__
+__For Mac or Linux__
 
 ```
 brew install sendosc
 ```
 
+
 or visit this repository.
 https://github.com/yoggy/sendosc
 
+In some cases, a symbolic link to /usr/local/bin is required.
 It probably will not work on Windows.
