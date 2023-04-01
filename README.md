@@ -37,7 +37,7 @@ brew install sendosc
 ```
 
 
-or visit this repository.
+or visit his repository.
 https://github.com/yoggy/sendosc
 
 In some cases, a symbolic link to /usr/local/bin is required.
