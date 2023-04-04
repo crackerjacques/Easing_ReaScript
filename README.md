@@ -52,3 +52,5 @@ Around 1998, a game called "Satomi no Nazo" was released on the PSX, and it was 
 When naming the main character, there was an "automatic" option, and if you selected it, you would get a result like this script. Our names may sound strange to alphabetical people, __but this allows us to create names that even we Japanese can't pronounce.__
 Various people you meet on your journey will call you by a string of letters that you don't know how to pronounce.
 
+H.P. Lovecraft named Cthulhu as an unpronounceable word, and that's generally how it goes.
+I think that starting with the sea is also in a way similar to Cthulhu.
