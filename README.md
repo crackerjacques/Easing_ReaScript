@@ -8,6 +8,7 @@ Probably useful for creating sound effects for movies and games, and for various
 
 
 # How to Use
+![IMG](https://github.com/crackerjacques/Easing_ReaScript/blob/main/02.png?raw=true)
 
 Download or clone this repo.
 
